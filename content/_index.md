@@ -1,0 +1,3 @@
+## クイックジャンプ
+
+https://exapmle.com/
