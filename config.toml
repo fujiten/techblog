@@ -14,11 +14,11 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "崩さないように　　積んでいる"
+  homeTitle = "崩さないように積んでいる"
   subtitle = "コンピューターに関する知見"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "images/top_icon.png"
+  favicon = "imgaes/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -45,14 +45,14 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
+  name = "fujiten"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
-  github = "username"
+  github = "fujiten"
   gitlab = "username"
   bitbucket = "username"
-  twitter = "username"
+  twitter = "wonder_meet"
   reddit = "username"
   linkedin = "username"
   xing = "username"
