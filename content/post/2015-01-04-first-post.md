@@ -1,6 +1,6 @@
 ---
-title: First post!
-date: 2015-01-05
+title: 最初の投稿!
+date: 2020-03-30
 ---
 
-This is my first post, how exciting!
+テストの記事です。
