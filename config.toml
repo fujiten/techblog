@@ -46,33 +46,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "fujiten"
-  # website = "yourwebsite.com"
   email = "youremail@domain.com"
-  # facebook = "username"
   github = "fujiten"
-  # gitlab = "username"
-  # bitbucket = "username"
   twitter = "wonder_meet"
-  # reddit = "username"
-  # linkedin = "username"
-  # xing = "username"
-  # stackoverflow = "users/XXXXXXX/username"
-  # snapchat = "username"
-  # instagram = "username"
-  # youtube = "user/username" # or channel/channelname
-  # oundcloud = "username"
-  # spotify = "username"
-  # bandcamp = "username"
-  # itchio = "username"
-  # vk = "username"
-  # paypal = "username"
-  # telegram = "username"
-  # 500px = "username"
-  # odepen = "username"
-  # mastodon = "url"
-  # kaggle = "username"
-  # weibo = "username"
-  # slack = "username"
 
 [[menu.main]]
     name = "Blog"
